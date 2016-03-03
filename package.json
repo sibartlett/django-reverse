@@ -1,0 +1,10 @@
+{
+  "name": "django-reverse",
+  "version": "1.0.1",
+  "description": "CommonJS wrapper for django-js-reverse",
+  "main": "index.js",
+  "author": "Simon Bartlett <simon@sibartlett.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/sibartlett/django-reverse",
+  "repository": "git://github.com/sibartlett/django-reverse"
+}
